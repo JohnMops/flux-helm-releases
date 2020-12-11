@@ -14,5 +14,5 @@ spec:
   interval: 10s
   targetNamespace: kube-system
   values:
-    replicas: 2
+    replicas: 1
 
